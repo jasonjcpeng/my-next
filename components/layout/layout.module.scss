@@ -1,0 +1,25 @@
+$font-size: 50px;
+
+.container {
+  margin: 100px auto 40px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headerImage {
+  width: 200px;
+  height: 200px;
+}
+
+.headerHomeImage {
+  width: 200px;
+  height: 200px;
+}
+
+.backToHome {
+  margin: 0 0 0;
+}

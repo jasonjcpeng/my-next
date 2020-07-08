@@ -1,0 +1,8 @@
+{
+  "script": "npm",
+  "args": "start",
+  "exec_mode": "cluster",
+  "instances": 2,
+  "output": ".pm2/logs/out.log",
+  "error": ".pm2/logs/error.log"
+}
